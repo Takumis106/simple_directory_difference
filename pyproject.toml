@@ -1,6 +1,6 @@
 [project]
 name = "simple-directory-difference"
-version = "0.1.0"
+version = "0.1.1"
 description = "Hashes file contents across two directory trees to list what changed."
 requires-python = ">=3.10"
 dependencies = []
